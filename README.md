@@ -32,12 +32,6 @@ YOLO is a single-stage detector that predicts bounding boxes and class probabili
 ## Comparison Analysis
 YOLO is fastest, while R-CNN is slowest due to per-region processing.
 
-# Object Detection Lab 4
-
-## Student Details
-Name: YOUR NAME  
-ID: YOUR ID  
-
 ## Description
 This project implements multiple object detection algorithms:
 
