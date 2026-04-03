@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/Fruit_Image_Dataset/train
+val: /content/drive/MyDrive/Fruit_Image_Dataset/test
+
+nc: 4
+names: ["apple","banana","orange","mixed"]
